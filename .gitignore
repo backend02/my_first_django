@@ -141,6 +141,10 @@ venv.bak/
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/misc.xml
+.idea/my_first_django.iml
+.idea/**/misc.xml
+.idea/**/my_first_django.iml
 
 
 # Sensitive or high-churn files
